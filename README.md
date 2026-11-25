@@ -1,48 +1,61 @@
+# 👋 Olá! Eu sou David Alves
 
-# Olá! Eu sou David Alves 👋
+### Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Full Stack em formação
 
-### Desenvolvedor Web em formação | Estudante de Análise e Desenvolvimento de Sistemas
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou construindo minha carreira na área de tecnologia, com foco no desenvolvimento Full Stack.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou construindo minha trajetória na área de tecnologia, com foco em desenvolvimento web e Full Stack.
+Atualmente, desenvolvo minha base em HTML, CSS e JavaScript por meio da graduação em ADS, da formação Full Stack da OneBitCode e de projetos práticos, buscando aprimorar minha lógica de programação e minhas habilidades de desenvolvimento.
 
-Atualmente, estudo HTML, CSS e JavaScript, desenvolvendo projetos práticos para fortalecer minha lógica de programação e aprimorar minhas habilidades.
+---
 
 ## 🛠️ Tecnologias e ferramentas
 
-- HTML5
-- CSS3
+**Conhecimentos em desenvolvimento:**
+- HTML
+- CSS
 - JavaScript
+
+**Ferramentas:**
 - Git e GitHub
 - Visual Studio Code
+
+---
 
 ## 🚀 Meus projetos
 
 ### HTML e CSS
 
-- [Seal World](https://davidalvesjr.github.io/seal-world/) — Página temática sobre focas, com imagens, vídeo e estilização.
-- [Alessio's Pizzaria](https://davidalvesjr.github.io/alessios-pizzaria/) — Projeto de site para uma pizzaria.
+- **[Seal World](https://davidalvesjr.github.io/seal-world/)** — Página temática sobre focas, com imagens, vídeo e estilização.
+- **[Alessio's Pizzaria](https://davidalvesjr.github.io/alessios-pizzaria/)** — Projeto de site para uma pizzaria.
 
 ### JavaScript
 
-- [Calculadora](https://davidalvesjr.github.io/javascript-projetos/calculadora/calculadora.html) — Exercício de lógica e operações matemáticas.
-- [Cadastro de Recrutas](https://davidalvesjr.github.io/javascript-projetos/cadastro-recrutas/recrutas.html) — Exercício de entrada e manipulação de dados.
+- **[Calculadora](https://davidalvesjr.github.io/javascript-projetos/calculadora/calculadora.html)** — Exercício prático de lógica de programação e operações matemáticas.
+- **[Cadastro de Recrutas](https://davidalvesjr.github.io/javascript-projetos/cadastro-recrutas/recrutas.html)** — Exercício de entrada de dados, variáveis e manipulação de informações.
 
-[Ver todos os meus projetos JavaScript](https://github.com/davidalvesjr/javascript-projetos)
+📂 **[Acesse o repositório de projetos JavaScript](https://github.com/davidalvesjr/javascript-projetos)**
 
-## 📚 Atualmente estudando
+---
 
-- Análise e Desenvolvimento de Sistemas (ADS)
-- JavaScript e lógica de programação
-- Desenvolvimento Full Stack — OneBitCode
+## 📚 Formação e estudos
 
-## 🎯 Meu objetivo
+- Análise e Desenvolvimento de Sistemas (ADS) — Universidade Positivo.
+- Formação Full Stack — OneBitCode.
+- Estudos de HTML, CSS e JavaScript.
+- Lógica de programação e desenvolvimento web.
 
-Evoluir continuamente como desenvolvedor, construir aplicações úteis e conquistar minha oportunidade profissional na área de tecnologia.
+---
+
+## 🎯 Objetivo profissional
+
+Consolidar minha formação como desenvolvedor Full Stack, desenvolver aplicações úteis e conquistar uma oportunidade profissional na área de tecnologia, onde possa aplicar meus conhecimentos e continuar evoluindo.
+
+---
 
 ## 📫 Contato
 
-- GitHub: [@davidalvesjr](https://github.com/davidalvesjr)
-- E-mail: davidalves.jr1@gmail.com
+- **GitHub:** [@davidalvesjr](https://github.com/davidalvesjr)
+- **E-mail:** davidalves.jr1@gmail.com
 
 ---
 
