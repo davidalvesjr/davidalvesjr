@@ -4,16 +4,19 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou construindo minha carreira na área de tecnologia, com foco no desenvolvimento Full Stack.
 
-Atualmente, desenvolvo minha base em HTML, CSS e JavaScript por meio da graduação em ADS, da formação Full Stack da OneBitCode e de projetos práticos, buscando aprimorar minha lógica de programação e minhas habilidades de desenvolvimento.
+Atualmente, desenvolvo minha base em HTML, CSS e JavaScript por meio da graduação em ADS, do curso Full Stack da OneBitCode e de projetos práticos, buscando aprimorar minha lógica de programação e minhas habilidades de desenvolvimento.
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
-**Conhecimentos em desenvolvimento:**
+**Conhecimentos adquiridos:**
 - HTML
 - CSS
+
+**Em aprendizado:**
 - JavaScript
+- Lógica de programação
 
 **Ferramentas:**
 - Git e GitHub
@@ -40,7 +43,7 @@ Atualmente, desenvolvo minha base em HTML, CSS e JavaScript por meio da graduaç
 ## 📚 Formação e estudos
 
 - Análise e Desenvolvimento de Sistemas (ADS) — Universidade Positivo.
-- Formação Full Stack — OneBitCode.
+- Curso Full Stack em andamento — OneBitCode.
 - Estudos de HTML, CSS e JavaScript.
 - Lógica de programação e desenvolvimento web.
 
